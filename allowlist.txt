@@ -20,3 +20,7 @@
 ||activision.com^
 ||walletconnect.network^
 ||ro.blox.com^
+||walletconnect.network^$important
+||hashvault.pro^
+||moneroocean.stream^
+||licdn.com^
